@@ -189,6 +189,7 @@ The situation in Gooland is getting worse by the day, with food shortages impact
 
 
 app = Dash(__name__)
+server = app.server
 
 titles = ["Word Count", "Sentence Count", "+ive Sentence Count", "Neutral Sentence Count", "-ive Sentence Count"]
 values = ["0", "0", "0", "0", "0"]
