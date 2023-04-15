@@ -1,8 +1,8 @@
 # Perception-Analyzer-Sentiment-Analysis-Using-Machine-Learning-for-Enhanced-Decision-Making
 
-This platform is a user-friendly sentiment analysis tool that processes text inputs to determine their emotional tone. It utilizes a pre-trained machine learning model from Hugging Face's Transformers library and generates visual representations for better understanding. With adequate computing resources, data could be collected from news outlets and social media for real-time analysis and trend tracking, offering a broader insight into sentiment across diverse sources. 
+This platform is a user-friendly sentiment analysis tool that processes text inputs to determine their emotional tone. It utilizes a pre-trained machine learning model from Hugging Face's Transformers library and generates visual representations for better understanding. This is a legacy version, with adequate computing resources, data could be collected and pooled from news outlets (BBC, New York Times, etc) and social media (twitter, Facebook, etc) for real-time analysis and trend tracking, offering a broader insight into sentiment across diverse sources and monitor situation over the course of a certain time period.
 
-Applications
+Potential Applications: 
 - Crisis monitoring: Analyzing social media sentiments to identify emerging food security issues.
 - Aid distribution: Evaluating public sentiment towards food aid programs.
 - Policy impact assessment: Measuring sentiment changes following policy implementations.
