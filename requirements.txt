@@ -31,7 +31,6 @@ retrying==1.3.4
 sympy
 tenacity==8.2.2
 tokenizers==0.13.3
-torch
 tqdm
 transformers==4.27.4
 tzdata==2023.3
