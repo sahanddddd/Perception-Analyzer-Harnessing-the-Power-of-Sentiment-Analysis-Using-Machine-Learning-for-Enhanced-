@@ -2,7 +2,7 @@
 
 Link to Online Dashboard: https://perceptionanalyzer-jv23b3wnva-lm.a.run.app/
 
-This platform is a proof of concpet of an interface into a sentiment analysis tool that processes text inputs to determine their emotional tone. It utilizes a pre-trained machine learning model from Hugging Face's Transformers library and generates visual representations for better understanding. This is a functional prototype, with adequate computing resources, data could be automatically pooled from news outlets (BBC, New York Times, etc) and social media (twitter, Facebook, etc) for real-time analysis and trend tracking, offering a broader insight into sentiment across diverse sources and monitor situation over the course of a certain time period.
+This platform is a proof of concpet of an interface into a sentiment analysis tool that processes text inputs to determine their emotional tone. It utilizes a pre-trained machine learning model from Hugging Face's Transformers library and generates visual representations for better understanding. This is a functional prototype, with adequate computing resources, data could be automatically pooled from news outlets (BBC, New York Times, etc) and social media (twitter, Facebook, etc) for real-time analysis and trend tracking, offering a broader insight into sentiment across diverse sources and monitor situation over the course of a certain time period. Furthermore, data can be geolocated to provide geographically sepcific information.
 
 Potential Applications: 
 - Crisis monitoring: Analyzing social media sentiments to identify emerging food security issues.
